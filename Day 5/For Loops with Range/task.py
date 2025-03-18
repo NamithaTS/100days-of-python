@@ -1,0 +1,6 @@
+sum=0
+for i in range(1,101):
+    sum+=i
+print(sum)
+for i in range( 0,11,2):
+    print(i)
